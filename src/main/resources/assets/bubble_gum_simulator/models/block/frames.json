@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bubble_gum_simulator:blocks/frames",
+    "up": "bubble_gum_simulator:blocks/frames",
+    "north": "bubble_gum_simulator:blocks/frames",
+    "east": "bubble_gum_simulator:blocks/frames",
+    "south": "bubble_gum_simulator:blocks/frames",
+    "west": "bubble_gum_simulator:blocks/frames",
+    "particle": "bubble_gum_simulator:blocks/frames"
+  }
+}

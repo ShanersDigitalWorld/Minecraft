@@ -1,0 +1,326 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Bgs",
+      "type": "tab",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bgs"
+    },
+    {
+      "name": "Vip",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vip"
+    },
+    {
+      "name": "Grass",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "grass"
+    },
+    {
+      "name": "Tops",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tops"
+    },
+    {
+      "name": "Portal",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "portal"
+    },
+    {
+      "name": "Frames",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "frames"
+    },
+    {
+      "name": "Paths",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "paths"
+    },
+    {
+      "name": "Bricks",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bricks"
+    },
+    {
+      "name": "Overworldclouds",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "overworldclouds"
+    },
+    {
+      "name": "Water",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "water"
+    },
+    {
+      "name": "Trampoline",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "trampoline"
+    },
+    {
+      "name": "Trampoline2",
+      "type": "block",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "trampoline_2"
+    },
+    {
+      "name": "Spinthewheel",
+      "type": "painting",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "spinthewheel"
+    },
+    {
+      "name": "Vippainting",
+      "type": "painting",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vippainting"
+    },
+    {
+      "name": "Tech",
+      "type": "painting",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tech"
+    },
+    {
+      "name": "Bgsst1",
+      "type": "musicdisc",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bgsst_1"
+    },
+    {
+      "name": "Bgsst2",
+      "type": "musicdisc",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bgsst_2"
+    },
+    {
+      "name": "Bgsst3",
+      "type": "musicdisc",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bgsst_3"
+    },
+    {
+      "name": "Bgsst4",
+      "type": "musicdisc",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bgsst_4"
+    },
+    {
+      "name": "Bgsst5",
+      "type": "musicdisc",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bgsst_5"
+    },
+    {
+      "name": "Bgsst6",
+      "type": "musicdisc",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bgsst_6"
+    },
+    {
+      "name": "Bgsst7",
+      "type": "musicdisc",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bgsst_7"
+    },
+    {
+      "name": "Vipwall",
+      "type": "block",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vipwall"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "bgsst1",
+      "files": [
+        "bubble-season-roblox_-bubble-gum-simulator-_original-soundtrack_-by-bslick"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "bgsst2",
+      "files": [
+        "bubbles-in-the-sky-roblox_-bubble-gum-simulator-_original-soundtrack_-by-bslick"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "bgsst3",
+      "files": [
+        "going-higher-and-higher-roblox_-bubble-gum-simulator-_original-soundtrack_-by-bslick_1"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "bgsst4",
+      "files": [
+        "gum-by-the-fire-roblox_-bubble-gum-simulator-_original-soundtrack_-by-bslick"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "bgsst5",
+      "files": [
+        "gum-hair-don_t-care-roblox_-bubble-gum-simulator-_original-soundtrack_-by-bslick_1"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "bgsst6",
+      "files": [
+        "no-pop-zone-roblox_-bubble-gum-simulator-_original-soundtrack_-by-bslick"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "bgsst7",
+      "files": [
+        "snow-bubbles-roblox_-bubble-gum-simulator-_original-soundtrack_-by-bslick"
+      ],
+      "category": "master",
+      "subtitle": ""
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "block.bubble_gum_simulator.vipwall": "Vipwall",
+      "itemGroup.tabbgs": "Bgs",
+      "item.bubble_gum_simulator.bgsst_1.desc": "Bgs",
+      "block.bubble_gum_simulator.overworldclouds": "Overworldclouds",
+      "item.bubble_gum_simulator.bgsst_1": "Bgsst 1",
+      "block.bubble_gum_simulator.water": "Water",
+      "block.bubble_gum_simulator.grass": "Grass",
+      "block.bubble_gum_simulator.trampoline_2": "Trampoline 2",
+      "block.bubble_gum_simulator.portal": "Portal",
+      "item.bubble_gum_simulator.bgsst_3.desc": "bgs",
+      "item.bubble_gum_simulator.bgsst_6.desc": "bgs",
+      "block.bubble_gum_simulator.tops": "Tops",
+      "block.bubble_gum_simulator.paths": "Paths",
+      "block.bubble_gum_simulator.vip": "Vip",
+      "item.bubble_gum_simulator.bgsst_2.desc": "bgs",
+      "item.bubble_gum_simulator.bgsst_5.desc": "bgs",
+      "block.bubble_gum_simulator.frames": "Frames",
+      "block.bubble_gum_simulator.trampoline": "Trampoline",
+      "item.bubble_gum_simulator.bgsst_6": "Bgsst 6",
+      "item.bubble_gum_simulator.bgsst_7": "Bgsst 7",
+      "block.bubble_gum_simulator.bricks": "Bricks",
+      "subtitles.bgsst7": "",
+      "item.bubble_gum_simulator.bgsst_4": "Bgsst 4",
+      "subtitles.bgsst6": "",
+      "item.bubble_gum_simulator.bgsst_5": "Bgsst 5",
+      "item.bubble_gum_simulator.bgsst_2": "Bgsst 2",
+      "subtitles.bgsst5": "",
+      "subtitles.bgsst4": "",
+      "item.bubble_gum_simulator.bgsst_3": "Bgsst 3",
+      "subtitles.bgsst3": "",
+      "subtitles.bgsst2": "",
+      "item.bubble_gum_simulator.bgsst_4.desc": "bgs",
+      "item.bubble_gum_simulator.bgsst_7.desc": "bgs",
+      "subtitles.bgsst1": ""
+    }
+  },
+  "workspaceSettings": {
+    "modid": "bubble_gum_simulator",
+    "modName": "Bubble Gum Simulator",
+    "version": "1.0.0",
+    "author": "Shane, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "modElementsPackage": "net.mcreator.bubblegumsimulator",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000547520
+}

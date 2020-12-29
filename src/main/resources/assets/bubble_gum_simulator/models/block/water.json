@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bubble_gum_simulator:blocks/water",
+    "up": "bubble_gum_simulator:blocks/water",
+    "north": "bubble_gum_simulator:blocks/water",
+    "east": "bubble_gum_simulator:blocks/water",
+    "south": "bubble_gum_simulator:blocks/water",
+    "west": "bubble_gum_simulator:blocks/water",
+    "particle": "bubble_gum_simulator:blocks/water"
+  }
+}

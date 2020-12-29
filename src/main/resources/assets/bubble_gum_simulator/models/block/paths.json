@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bubble_gum_simulator:blocks/paths",
+    "up": "bubble_gum_simulator:blocks/paths",
+    "north": "bubble_gum_simulator:blocks/paths",
+    "east": "bubble_gum_simulator:blocks/paths",
+    "south": "bubble_gum_simulator:blocks/paths",
+    "west": "bubble_gum_simulator:blocks/paths",
+    "particle": "bubble_gum_simulator:blocks/paths"
+  }
+}

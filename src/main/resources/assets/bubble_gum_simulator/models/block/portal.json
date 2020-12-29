@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bubble_gum_simulator:blocks/portal",
+    "up": "bubble_gum_simulator:blocks/portal",
+    "north": "bubble_gum_simulator:blocks/portal",
+    "east": "bubble_gum_simulator:blocks/portal",
+    "south": "bubble_gum_simulator:blocks/portal",
+    "west": "bubble_gum_simulator:blocks/portal",
+    "particle": "bubble_gum_simulator:blocks/portal"
+  }
+}

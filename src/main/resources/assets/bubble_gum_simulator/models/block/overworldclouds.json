@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bubble_gum_simulator:blocks/overworldcloud",
+    "up": "bubble_gum_simulator:blocks/overworldcloud",
+    "north": "bubble_gum_simulator:blocks/overworldcloud",
+    "east": "bubble_gum_simulator:blocks/overworldcloud",
+    "south": "bubble_gum_simulator:blocks/overworldcloud",
+    "west": "bubble_gum_simulator:blocks/overworldcloud",
+    "particle": "bubble_gum_simulator:blocks/overworldcloud"
+  }
+}
